@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scene/Map 2 - Prison Office.unity
+    guid: 388c28509ca5fbd4dab2cbf4ce564a25
+  - enabled: 1
+    path: Assets/_Scene/SplashScreen.unity
+    guid: 1a9a26b08ed4a3e4ebb48e7c48884f58
+  - enabled: 1
+    path: Assets/_Scene/Map 2 - Prison Office Landscape.unity
+    guid: aea1678c41d10404b9b8066ffa4ab05d
+  m_configObjects: {}
